@@ -1,0 +1,127 @@
+electromagnetic spectrum
+	range of wavelengths or frequencies over which electromagnetic radiation extends
+
+laser
+	light amplification through stimulated emissions of radiation
+	
+cornea
+	the clear, dome-shaped tissues covering the front of the eye
+
+eyebrow
+	a patch of dense hairs located above the eye
+	
+eyelash
+	one of the many hairs on the edge of the eyelids
+	
+eyelid
+	the flap of skin that can cover and protect the eye
+	
+iris
+	the colored part of the eye; it controls the amount of light that enters the eye by changing the size of the pupil
+	
+lens (eye)
+	a crystalline structure located just behind the iris; it focuses light onto the retina
+	
+optic nerve
+	the nerve that transmits electrical impulses from the retina to the brain
+	
+pupil	
+	the opening in the center of the iris; it changes size as the amount of light changes; the more light, the smaller the hole
+	
+retina	
+	sensory tissue that lines the back of the eye; it contains millions of photoreceptors (rods and cones) that convert light rays into electrical impulses that are relayed to the brain via the optic nerve
+
+tear
+	clear, salty liquid that is produced by glands in the eyes
+	
+vitreous
+	a thick, transparent liquid that fills the center of the eye; it is mostly water and gives the eye its form and shape; also called the vitreous humor
+	
+hologram
+	three-dimensional photograph that is produced using lasers
+	
+Common characteristic of all optical devices
+	all produce or control light
+
+refracting telescope
+	uses lenses to gather and focus light from distant objects
+	
+reflecting telescope
+	uses mirrors to gather and focus light from distant objects
+	
+microscope
+	uses lenses to form a magnified image of very small, close objects
+
+rods and cones
+	cells in the retina
+	
+rod
+	responds to low light
+	
+cone
+	responds to wavelength of colors
+	
+lens
+	transparent object with at least one curved side that causes light to change
+	
+concave
+	thicker at the edges than in the middle
+	
+convex
+	thicker in the middle than at the edge
+	
+
+
+
+    key_words = [
+        "electromagnetic spectrum",
+        "laser",
+        "cornea",
+        "eyebrow",
+        "eyelash",
+        "eyelid",
+        "iris",
+        "lens (eye)",
+        "optic nerve",
+        "pupil",
+        "retina",
+        "tear",
+        "vitreous",
+        "hologram",
+        "Common characteristic of all optical devices",
+        "refracting telescope",
+        "reflecting telescope",
+        "microscope",
+        "rods and cones",
+        "rod",
+        "cone",
+        "lens",
+        "concave",
+        "convex",
+    ]
+    definitions = [
+        "range of wavelengths or frequencies over which electromagnetic radiation extends",
+        "light amplification through stimulated emissions of radiation",
+        "the clear, dome-shaped tissues covering the front of the eye",
+        "a patch of dense hairs located above the eye",
+        "one of the many hairs on the edge of the eyelids",
+        "the flap of skin that can cover and protect the eye",
+        "the colored part of the eye; it controls the amount of light that enters the eye by changing the size of the pupil",
+        "a crystalline structure located just behind the iris; it focuses light onto the retina",
+        "the nerve that transmits electrical impulses from the retina to the brain",
+        "the opening in the center of the iris; it changes size as the amount of light changes; the more light, the smaller the hole",
+        "sensory tissue that lines the back of the eye; it contains millions of photoreceptors (rods and cones) that convert light rays into electrical impulses that are relayed to the brain via the optic nerve",
+        "clear, salty liquid that is produced by glands in the eyes",
+        "a thick, transparent liquid that fills the center of the eye; it is mostly water and gives the eye its form and shape; also called the vitreous humor",
+        "three-dimensional photograph that is produced using lasers",
+        "all produce or control light",
+        "uses lenses to gather and focus light from distant objects",
+        "uses mirrors to gather and focus light from distant objects",
+        "uses lenses to form a magnified image of very small, close objects",
+        "cells in the retina",
+        "responds to low light",
+        "responds to wavelength of colors",
+        "transparent object with at least one curved side that causes light to change",
+        "thicker at the edges than in the middle",
+        "thicker in the middle than at the edge",
+    ]

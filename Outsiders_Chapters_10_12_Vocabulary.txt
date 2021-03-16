@@ -1,0 +1,68 @@
+idolized
+veered
+vast
+clad
+welled
+stupor
+guardian
+vacuum
+stricken
+hearing
+acquitted
+flinching
+liable
+delirious
+contract
+
+
+adored; woshipped; blindly admired
+shifted from one direction to another
+great in size or scope
+dressed; wearing
+gushed up
+state in which the mind and senses are dulled; dazed
+protector; one who watches over another
+state of emptiness; void
+to draw together; shrink
+an appearance in front of a judge before trial
+set free after evidence has been considered
+tortured; agonized; heartbroken
+likely
+wildly irrational; mentally wondering
+withdrawing or shrinking from
+
+
+key_words = [
+        "idolized",
+        "veered",
+        "vast",
+        "clad",
+        "welled",
+        "stupor",
+        "guardian",
+        "vacuum",
+        "stricken",
+        "hearing",
+        "acquitted",
+        "flinching",
+        "liable",
+        "delirious",
+        "contract",
+    ]
+    definitions = [
+        "adored; worshipped; blindly admired",
+        "shifted from one direction to another",
+        "great in size or scope",
+        "dressed; wearing",
+        "gushed up",
+        "state in which the mind and senses are dulled; dazed",
+        "protector; one who watches over another",
+        "state of emptiness; void",
+        "to draw together; shrink",
+        "an appearance in front of a judge before trial",
+        "set free after evidence has been considered",
+        "tortured; agonized; heartbroken",
+        "likely",
+        "wildly irrational; mentally wondering",
+        "withdrawing or shrinking from",
+    ]
